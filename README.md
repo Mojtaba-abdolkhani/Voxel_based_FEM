@@ -1,4 +1,4 @@
-# Voxel-based-FEM
+# Voxel-based Finite Element Method
 FORTRAN program to perform voxel-based finite element analysis within Abaqus
 
 This code requires a binary image as input.
